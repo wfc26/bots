@@ -1,7 +1,7 @@
 <?php 
 
-$auth_token = "AUTH_TOKEN";
-$send_name = "HelloBot";
+$auth_token = "цас26";
+$send_name = "Дюшкабот";
 $is_log = true;
 
 function put_log_in($data)
