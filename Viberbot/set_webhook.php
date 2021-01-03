@@ -1,6 +1,6 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$auth_token = 'wfc26';
+	$webhook = '4cb1da3adae7d1b4-77d469d5416661f2-b38a3f07aad00f3';
 	
 	$jsonData = 
 	'{
