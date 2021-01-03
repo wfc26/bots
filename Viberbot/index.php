@@ -1,6 +1,6 @@
 <?php 
 
-$auth_token = "цас26";
+$auth_token = "wfc26";
 $send_name = "Дюшкабот";
 $is_log = true;
 
