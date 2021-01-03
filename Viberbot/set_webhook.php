@@ -1,6 +1,6 @@
 <?php
 	$auth_token = '4cb1da3adae7d1b4-77d469d5416661f2-b38a3f07aad00f36';
-	$webhook = '4cb1da3adae7d1b4-77d469d5416661f2-b38a3f07aad00f3';
+	$webhook = 'https://github.com/wfc26/bots/blob/master/Viberbot/index.php';
 	
 	$jsonData = 
 	'{
